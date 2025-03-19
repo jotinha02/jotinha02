@@ -1,11 +1,15 @@
-## Hi there 👋
+## Fala ae, João Lúcio aqui 🙋🏽‍♂️
+
+ - 🔭 Atualmente estou me aperfeiçoando na linguagem PHP e no framework Laravel.
+ - 📕 Sou Formado em Análise e Desenvolvimento de Sistemas
+ - 👯 Busco uma oportunidade de emprego para colocar minha aprendizagem em prática
 
 <!--
 **jotinha02/jotinha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
